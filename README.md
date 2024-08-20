@@ -1,6 +1,5 @@
 <p align="center">
-  <h1>Hi 👋 I'm Prem Kumar Addala</h1><br>
-  _A Passionate Software Developer_
+  Hi 👋 I'm Prem Kumar Addala<br>
 </p>
 <p align="center">
   _A Passionate Software Developer_
