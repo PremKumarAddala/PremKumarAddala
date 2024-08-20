@@ -3,8 +3,6 @@
 ## Hi 👋 I'm Prem Kumar Addala  
 _A Passionate Software Developer_  
 
-![Profile Views](https://komarev.com/ghpvc/?username=PremKumarAddala&color=blue&style=flat)
-
 </div>
 ![Profile Views](https://komarev.com/ghpvc/?username=PremKumarAddala&color=blue&style=flat)
 
