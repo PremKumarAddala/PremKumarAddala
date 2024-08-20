@@ -19,7 +19,7 @@ _A Passionate Software Developer_
   
 - 🤔 I’m seeking to enhance my skills in back-end integration for **full-stack development**.
   
-- 💬 Ask me about **front-end development**, **responsive design**, **Python**, **SQL**, or any web development queries.
+- 💬 Ask me about **front-end development**, **responsive design**, **Python**, **SQL**, or **any web development queries**.
   
 - 📫 Reach me by email: [premkumaraddala626@gmail.com](mailto:premkumaraddala626@gmail.com)
   
