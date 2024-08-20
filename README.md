@@ -1,5 +1,8 @@
 <p align="center">
-  <strong>Hi 👋 I'm Prem Kumar Addala</strong><br>
+  <h1>Hi 👋 I'm Prem Kumar Addala</h1><br>
+  _A Passionate Software Developer_
+</p>
+<p align="center">
   _A Passionate Software Developer_
 </p>
 ![Profile Views](https://komarev.com/ghpvc/?username=PremKumarAddala&color=blue&style=flat)
