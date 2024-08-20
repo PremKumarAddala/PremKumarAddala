@@ -3,8 +3,10 @@
 ## Hi 👋 I'm Prem Kumar Addala  
 _A Passionate Software Developer_  
 
-</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=PremKumarAddala&color=blue&style=flat)
+
+</div>
+
 
 - 🌱 I’m currently expanding my knowledge in **Express.js**, **Next.js**, and **Tailwind CSS**.
   
