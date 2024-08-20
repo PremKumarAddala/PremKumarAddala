@@ -2,15 +2,15 @@
   _A Passionate Software Developer_  
 ![Profile Views](https://komarev.com/ghpvc/?username=PremKumarAddala&color=blue&style=flat)
 
--### 🌱 I’m currently expanding my knowledge in **Express.js**, **Next.js**, and **Tailwind CSS**.  
--### 👯 I’m looking to collaborate on Junior Software Engineer roles or **internships**.  
--### 🤔 I’m seeking to enhance my skills in back-end integration for **full-stack development**.  
+->### 🌱 I’m currently expanding my knowledge in **Express.js**, **Next.js**, and **Tailwind CSS**.  
+->### 👯 I’m looking to collaborate on Junior Software Engineer roles or **internships**.  
+->### 🤔 I’m seeking to enhance my skills in back-end integration for **full-stack development**.  
 -### 💬 Ask me about front-end development, responsive design, **Python**, **SQL**, or any web development queries.  
--### 📫 Reach me by email: [premkumaraddala626@gmail.com](mailto:premkumaraddala626@gmail.com)  
--### 📄 My [Resume](https://drive.google.com/file/d/1z7pz_-PJT02jj_uN7N2RQz-gniJWIX3w/view?usp=sharing)  
--### 👨‍💻 Check out my projects and portfolio at [My Portfolio](https://premkumaraddalaportfolio.glitch.me/)  
--### 😄 Pronouns: **He/Him**  
--### ⚡ Fun fact: I’m passionate about blending creative design with robust code to create seamless user experiences.
+->### 📫 Reach me by email: [premkumaraddala626@gmail.com](mailto:premkumaraddala626@gmail.com)  
+->### 📄 My [Resume](https://drive.google.com/file/d/1z7pz_-PJT02jj_uN7N2RQz-gniJWIX3w/view?usp=sharing)  
+->### 👨‍💻 Check out my projects and portfolio at [My Portfolio](https://premkumaraddalaportfolio.glitch.me/)  
+->### 😄 Pronouns: **He/Him**  
+->### ⚡ Fun fact: I’m passionate about blending creative design with robust code to create seamless user experiences.
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kumar-addala-594506273/) 
