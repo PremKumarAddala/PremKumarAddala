@@ -1,9 +1,9 @@
 <p align="center">
-  <strong style="font-size: 5em;">Hi 👋 I'm Prem Kumar Addala</strong><br>
+  <strong style="font-size: 10em;">Hi 👋 I'm Prem Kumar Addala</strong><br>
   <em style="font-size: 1.2em;">A Passionate Software Developer</em>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=PremKumarAddala&color=blue&style=flat" alt="Profile Views">
 </p>
 
