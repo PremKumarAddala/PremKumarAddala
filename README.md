@@ -1,11 +1,6 @@
-<p align="center">
-  <strong style="font-size: 10em;">Hi 👋 I'm Prem Kumar Addala</strong><br>
-  <em style="font-size: 1.2em;">A Passionate Software Developer</em>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PremKumarAddala&color=blue&style=flat" alt="Profile Views">
-</p>
+##                       Hi 👋 I'm Prem Kumar Addala  
+                      _A Passionate Software Developer_  
+![Profile Views](https://komarev.com/ghpvc/?username=PremKumarAddala&color=blue&style=flat)
 
 - 🌱 I’m currently expanding my knowledge in **Express.js**, **Next.js**, and **Tailwind CSS**.
   
